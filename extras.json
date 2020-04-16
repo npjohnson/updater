@@ -4,28 +4,48 @@
     "extras": [
       {
         "name": "su (arm)",
-        "date": "2019-07-09",
-        "url": "https://mirrorbits.lineageos.org/su/20190709/addonsu-16.0-arm-signed.zip"
-      },
-      {
-        "name": "su (arm64)",
-        "date": "2019-07-09",
-        "url": "https://mirrorbits.lineageos.org/su/20190709/addonsu-16.0-arm64-signed.zip"
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/16.0/addonsu-16.0-arm-signed.zip"
       },
       {
         "name": "su removal (arm)",
-        "date": "2019-07-09",
-        "url": "https://mirrorbits.lineageos.org/su/20190709/addonsu-remove-16.0-arm-signed.zip"
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/16.0/addonsu-remove-16.0-arm-signed.zip"
+      },
+      {
+        "name": "su (arm64)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/16.0/addonsu-16.0-arm64-signed.zip"
       },
       {
         "name": "su removal (arm64)",
-        "date": "2019-07-09",
-        "url": "https://mirrorbits.lineageos.org/su/20190709/addonsu-remove-16.0-arm64-signed.zip"
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/16.0/addonsu-remove-16.0-arm64-signed.zip"
       },
       {
-        "name": "OpenWeatherProvider",
-        "date": "2019-07-18",
-        "url": "https://mirrorbits.lineageos.org/WeatherProviders/20190718/OpenWeatherProvider-16.0-signed.apk"
+        "name": "su (x86)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/16.0/addonsu-16.0-x86-signed.zip"
+      },
+      {
+        "name": "su removal (x86)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/16.0/addonsu-remove-16.0-x86-signed.zip"
+      },
+      {
+        "name": "su (x86_64)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/16.0/addonsu-16.0-x86_64-signed.zip"
+      },
+      {
+        "name": "su removal (x86_64)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/16.0/addonsu-remove-16.0-x86_64-signed.zip"
+      },
+      {
+        "name": "OpenWeatherMapWeatherProvider",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/weatherproviders/OpenWeatherProvider-16.0-signed.apk"
       }
     ]
   },
@@ -34,33 +54,38 @@
     "extras": [
       {
         "name": "su (arm)",
-        "date": "2019-07-09",
-        "url": "https://mirrorbits.lineageos.org/su/20190709/addonsu-15.1-arm-signed.zip"
-      },
-      {
-        "name": "su (arm64)",
-        "date": "2019-07-09",
-        "url": "https://mirrorbits.lineageos.org/su/20190709/addonsu-15.1-arm64-signed.zip"
-      },
-      {
-        "name": "su (x86)",
-        "date": "2018-09-12",
-        "url": "https://mirrorbits.lineageos.org/su/20180912/addonsu-15.1-x86-signed.zip"
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/15.1/addonsu-15.1-arm-signed.zip"
       },
       {
         "name": "su removal (arm)",
-        "date": "2019-07-09",
-        "url": "https://mirrorbits.lineageos.org/su/20190709/addonsu-remove-15.1-arm-signed.zip"
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/15.1/addonsu-remove-15.1-arm-signed.zip"
+      },
+      {
+        "name": "su (arm64)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/15.1/addonsu-15.1-arm64-signed.zip"
       },
       {
         "name": "su removal (arm64)",
-        "date": "2019-07-09",
-        "url": "https://mirrorbits.lineageos.org/su/20190709/addonsu-remove-15.1-arm64-signed.zip"
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/15.1/addonsu-remove-15.1-arm64-signed.zip"
+      },
+      {
+        "name": "su (x86)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/15.1/addonsu-15.1-x86-signed.zip"
       },
       {
         "name": "su removal (x86)",
-        "date": "2018-09-12",
-        "url": "https://mirrorbits.lineageos.org/su/20180912/addonsu-remove-15.1-x86-signed.zip"
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/15.1/addonsu-remove-15.1-x86-signed.zip"
+      },
+      {
+        "name": "OpenWeatherMapWeatherProvider",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/weatherproviders/OpenWeatherProvider-15.1-signed.apk"
       }
     ]
   },
@@ -69,38 +94,68 @@
     "extras": [
       {
         "name": "su (arm)",
-        "date": "2017-06-21",
-        "url": "https://mirrorbits.lineageos.org/su/addonsu-14.1-arm-signed.zip"
-      },
-      {
-        "name": "su (arm64)",
-        "date": "2017-06-21",
-        "url": "https://mirrorbits.lineageos.org/su/addonsu-14.1-arm64-signed.zip"
-      },
-      {
-        "name": "su (x86)",
-        "date": "2017-06-21",
-        "url": "https://mirrorbits.lineageos.org/su/addonsu-14.1-x86-signed.zip"
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/14.1/addonsu-14.1-arm-signed.zip"
       },
       {
         "name": "su removal (arm)",
-        "date": "2017-06-21",
-        "url": "https://mirrorbits.lineageos.org/su/addonsu-remove-14.1-arm-signed.zip"
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/14.1/addonsu-remove-14.1-arm-signed.zip"
+      },
+      {
+        "name": "su (arm64)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/14.1/addonsu-14.1-arm64-signed.zip"
       },
       {
         "name": "su removal (arm64)",
-        "date": "2017-06-21",
-        "url": "https://mirrorbits.lineageos.org/su/addonsu-remove-14.1-arm64-signed.zip"
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/14.1/addonsu-remove-14.1-arm64-signed.zip"
       },
       {
         "name": "su (x86)",
-        "date": "2017-06-21",
-        "url": "https://mirrorbits.lineageos.org/su/addonsu-remove-14.1-x86-signed.zip"
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/14.1/addonsu-14.1-x86-signed.zip"
       },
       {
-        "name": "OpenWeatherMapWeatherProvider",
-        "date": "2017-11-30",
-        "url": "https://mirrorbits.lineageos.org/WeatherProviders/OpenWeatherMapWeatherProvider.apk"
+        "name": "su removal (x86)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/14.1/addonsu-remove-14.1-x86-signed.zip"
+      }
+    ]
+  },
+  {
+    "version": "13.0",
+    "extras": [
+      {
+        "name": "su (arm)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/13.0/addonsu-13.0-arm-signed.zip"
+      },
+      {
+        "name": "su removal (arm)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/13.0/addonsu-remove-13.0-arm-signed.zip"
+      },
+      {
+        "name": "su (arm64)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/13.0/addonsu-13.0-arm64-signed.zip"
+      },
+      {
+        "name": "su removal (arm64)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/13.0/addonsu-remove-13.0-arm64-signed.zip"
+      },
+      {
+        "name": "su (x86)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/13.0/addonsu-13.0-x86-signed.zip"
+      },
+      {
+        "name": "su removal (x86)",
+        "date": "2020-03-28",
+        "url": "https://download.ods.ninja/Android/lineage/addons/addonsu/13.0/addonsu-remove-13.0-x86-signed.zip"
       }
     ]
   }
