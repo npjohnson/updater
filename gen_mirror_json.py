@@ -19,8 +19,11 @@ builds = {}
 for f in [os.path.join(dp, f) for dp, dn, fn in os.walk(FILE_BASE) for f in fn]:
     data = open(f)
     filename = f.split('/')[-1]
-    # lineage-14.1-20171129-nightly-hiaeul-signed.zip
-    _, version, builddate, buildtype, device = os.path.splitext(filename)[0].split('-')
+    try:
+        # lineage-14.1-20171129-nightly-hiaeul-signed.zip
+        _, version, builddate, buildtype, device = os.path.splitext(filename)[0].split('-')
+    except:
+        continue;
     print('hashing sha256 for {}'.format(filename), file=sys.stderr)
     sha256 = hashlib.sha256()
     for buf in iter(lambda : data.read(128 * 1024), b''):
