@@ -42,7 +42,7 @@
                                 {% if has_recovery and rom.recovery %}
                                 <td>
                                     <a href="{{download_base_url}}{{rom.recovery.filepath}}">{{rom.recovery.filename}}</a><br />
-                                    <small>sha256: {{recovery.sha256}}</small>
+                                    <small>sha256: {{rom.recovery.sha256}}</small>
                                 </td>
                                 <td>{{(rom.recovery.size / 1024 / 1024) | round(2)}} MB </td>
                                 {% elif has_recovery %}
